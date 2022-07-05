@@ -1,1 +1,1 @@
-this is readme of varia.. if else wile project
+THIS IS ONE README FOR THE C FUNCTIONSAND NESTED LOOPS
